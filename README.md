@@ -2,7 +2,10 @@
 
 Aplicação interativa em **Streamlit** desenvolvida para a **Atividade 02** da disciplina:  
 **IA001 — Análise e Visualização de Dados com Python e Ferramentas Assistidas por IA**  
-**Autor / Integrante:** Vinicius Rigon
+**Autor / Integrante:** Vinicius Rigon  
+**🌐 Acesse o Dashboard Online (Streamlit Community Cloud):** [https://viniciusrigon-f1-dashboard-app-4aubol.streamlit.app/](https://viniciusrigon-f1-dashboard-app-4aubol.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://viniciusrigon-f1-dashboard-app-4aubol.streamlit.app/)
 
 ---
 
@@ -75,9 +78,13 @@ O dashboard organiza as investigações em **7 abas temáticas**:
 
 ---
 
-## 5. Instruções de Instalação e Execução
+## 5. Instruções de Acesso, Instalação e Execução
 
-### Pré-requisitos
+### 🌐 Acesso Online (Sem Instalação Local)
+A aplicação está publicada e disponível gratuitamente no **Streamlit Community Cloud**:  
+👉 **[https://viniciusrigon-f1-dashboard-app-4aubol.streamlit.app/](https://viniciusrigon-f1-dashboard-app-4aubol.streamlit.app/)**
+
+### 💻 Execução Local — Pré-requisitos
 - Python 3.10 ou superior instalado.
 
 ### Opção A: Execução direta com `uv` (Recomendada)
